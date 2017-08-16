@@ -1,0 +1,15 @@
+p {
+    color: green;
+}
+
+h1 {
+    background-color: red;
+}
+
+.img-small {
+    width: 10px;
+}
+
+.img-medium {
+    width: 30px;
+}
