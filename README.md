@@ -1,1 +1,1 @@
-This is the site for AppStrudel
+Website da AppStrudel
